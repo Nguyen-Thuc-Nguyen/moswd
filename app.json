@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Snappet",
-    "slug": "Snappet",
+    "slug": "moswd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9239b6bb-8280-483e-95c4-906543a9d40f"
+      }
+    },
+    "owner": "nguyen11"
   }
 }
